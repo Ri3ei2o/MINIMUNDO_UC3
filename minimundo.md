@@ -4,3 +4,5 @@ A "Global Pet" terá um sistema de pagamento que não será aceito pagamentos "a
 O sistema de cadastro da "Global Pet", passará a cadastrar o nome do responsável do pet, o número de telefone, CPF, e-mail, nome do animal, raça, espécie, tipos de serviço, idade, data e hora.
 No sistema de estoque precisaremos cadastrar quais tipos de produtos serão introduzidos no sistema, como: Código de barra, descrição do produto, preço de venda, quantidade, validade, o que entrou e o que foi vendido/usado.
 A plataforma do sistema averá perfis de acesso, aonde cada pessoa terá acesso do que precisa ser manuseado no dia a dia. O dono terá o perfil de "Administrador", os funcionários, como perfil de "Usuário-recepção-banho/tosa-veterinário" e os clientes "Usuário-Cliente".
+
+O Pet Shop contará com sistema de atendimento e servicos prestados para o animal e deixando registrado todo o historico na ficha do cliente
